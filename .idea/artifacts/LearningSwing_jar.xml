@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="LearningSwing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LearningSwing_jar</output-path>
+    <root id="archive" name="LearningSwing.jar">
+      <element id="module-output" name="Simple Game of Life Owl" />
+    </root>
+  </artifact>
+</component>
